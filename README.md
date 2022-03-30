@@ -27,7 +27,7 @@ $ git clone https://github.com/linux-ky/mit_bus_route
 Load the index.html file into your browser.
 * Press "Show the Stops between MIT and Harvard"
 
-![Pacman Factory](images/Pacman_game.png?raw=true "Pacman Factory")
+![Bus Route](bus_game.png?raw=true "Bus Route")
 
 ## Link back to Robert Ziegler's Porfolio GitHub Page
 https://linux-ky.github.io/#page-top
